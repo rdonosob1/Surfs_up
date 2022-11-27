@@ -14,6 +14,7 @@ After the whole analysis was executed, we found the following summary statistics
 ![June Temps](https://github.com/rdonosob1/Surfs_up/blob/main/June%20Temps.png)
 
 ### Summary Statistics for December Temperatures
+![December Temps](https://github.com/rdonosob1/Surfs_up/blob/main/December%20Temps.png)
 
 ### Key Differences 
 As the images show, there are three important differences between the temperature recorded during June and the temperature recorded during December. 
