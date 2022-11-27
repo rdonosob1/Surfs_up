@@ -11,7 +11,7 @@ As a result, we will need to provide two technical analyses as follows:
 After the whole analysis was executed, we found the following summary statistics for both the month of June and the month of December, respectively. 
 
 ### Summary Statistics for June Temperatures
-![June Temps](https://github.com/rdonosob1/PyBer_Analysis/blob/main/Summary_df.png)
+![June Temps](https://github.com/rdonosob1/Surfs_up/blob/main/June%20Temps.png)
 
 ### Summary Statistics for December Temperatures
 
