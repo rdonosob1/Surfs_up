@@ -20,11 +20,11 @@ After the whole analysis was executed, we found the following summary statistics
 As the images show, there are three important differences between the temperature recorded during June and the temperature recorded during December. 
 -	The number of observations during June is 1,700.00, while in December there is only 1,517.00.
 However, the standard deviation (std) in December is higher than the one in June. 
--	The first quartile of summary statistics for December shows a temperature of 69 while the one for June shows a temperature of 73, while the 3rd quartile for December shows a temperature of 74 while the one for June has 77.
--	The minimum temperature recorded in December is 59 F, while the minimum temperature recorded during June is 64. Likewise, the first and second results detailed above, this corroborates and confirms why the std of December is higher that the std for June again. 
+-	The first quartile of summary statistics for December shows a temperature of 69 °F, while the one for June shows a temperature of 73 °F. Likewise, the 3rd quartile for December shows a temperature of 74 °F while the one for June has 77 °F.
+-	The minimum temperature recorded in December is 59 °F, while the minimum temperature recorded during June is 64 °F. Likewise, the first and second results detailed above, this corroborates and confirms why the std of December is higher that the std for June again. 
 
 ## Summary
-Finally, it is clear than December turns to be just a little colder than June, but nothing really different. It shows that the average temperature in Oahu during the entire year is steady, so it is around 71-75 degrees. 
+Finally, it is clear than December turns to be just a little colder than June, but nothing really different. It shows that the average temperature in Oahu during the entire year is steady, so it is around 71-75 °F. 
 
 ### Recommendations
 Other queries that should be important to run in order to get more data would be the following:
